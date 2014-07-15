@@ -1,0 +1,2 @@
+<?php
+$s = 'Once upon a time there was a turtle';
